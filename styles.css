@@ -1,0 +1,113 @@
+body{
+	background-color: gray;
+	color: white;
+}
+.entete{
+	width: 100%;
+	border-bottom: 5px black solid ;
+	display: inline-block;	
+}
+.titre{
+	font-style: italic;
+	border-bottom: 5px black solid;
+	border-radius: 30px;
+	display: inline-block;
+}
+nav{
+	position: relative;
+	text-align: right;
+	font-size: 20px;
+}
+a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: black;
+	border-radius: 5px;
+	padding: 3px;
+	margin: 10px;
+}
+
+#banière {
+
+
+
+
+	margin-top: 15px;
+	height: 200px;
+	border-radius: 5px;
+	border-bottom: 5px solid black ;
+	margin-bottom: 25px;
+
+}
+.presentation{
+	border-bottom: 5px black solid;
+	border-radius: 5px;
+	background-color: white;
+	margin: 5px;
+	padding: 5px;
+	color: black;
+	
+
+}
+.autres{
+	border-top: 5px black solid;
+	border-radius: 5px;
+	margin: 5px;
+	padding: 5px;
+	background-color: red;
+
+}
+.moi{
+	border: 5px white solid;
+	display: inline-block;
+	height: 70px;
+	position: center;
+	padding: 3px;
+	margin-left: 40% ;
+	
+}
+h4{
+	margin-left: 43%;
+	opacity: 0.6;
+}
+.un{
+	display: inline-bloc
+	width: 60%;
+	font-size: 20px;
+	position: top;
+	
+	
+	
+}
+img{
+	width: 15%;
+	border: 2px white solid;
+	float: right;
+}
+.sk{
+	float: left;
+	display: inline-block;
+	width: 50%;
+	font-size: 20px;
+
+
+}
+.pass{
+
+	display: inline-block;
+	width: 50%;
+	font-size: 20px;
+}
+footer{
+	border-top: 5px black solid;
+	border-radius: 10px;
+}
+
+.foot{
+
+	margin-left: 43%;
+}
+.afoot{
+	margin-left: 42%;
+}
